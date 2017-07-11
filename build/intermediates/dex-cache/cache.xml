@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\czh\.android\build-cache\cb01ffa1ef3adc4e12e6563d941d0a7ee3c63ca1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7880825917f7ad26d7fdfaa421cd1e1827d13c10">
+        <dex dex="D:\Android\AppSite-Lottery\app\build\intermediates\pre-dexed\debug\classes_91d11298484e5eed8339690c687772dd5fa63663.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AppSite-Lottery\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d52ee7508ae0462aaf24f7ed5645581ab61cbd4">
+        <dex dex="D:\Android\AppSite-Lottery\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5d53fd646751253e13516782a856a6b6bade1d88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AppSite-Lottery\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Android\AppSite-Lottery\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9bb18da4b1c52463399ef64da3784e33e32e1d05\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\czh\.android\build-cache\03e8d178e93ab8f9f0f12242544c4ddcf6d197c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="637572952be0db98c9288fb9f9fb923a71401be1">
+        <dex dex="D:\Android\AppSite-Lottery\app\build\intermediates\pre-dexed\debug\classes_8dcdf98d725dfa2c2be44700afd93cc2d9ef5575.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\czh\.android\build-cache\cb01ffa1ef3adc4e12e6563d941d0a7ee3c63ca1\output\jars\libs\jcore-android_v1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0149c38b9688b28e80fab18616d4e80c1906d573">
+        <dex dex="D:\Android\AppSite-Lottery\app\build\intermediates\pre-dexed\debug\jcore-android_v1.1.1_5944b844c81d1d8c4a5662c54d7bd31a6afae39a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\czh\.android\build-cache\03e8d178e93ab8f9f0f12242544c4ddcf6d197c3\output\jars\libs\jpush-android_v3.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7da1fe9424ad39b3e138685e798569b7e404e8df">
+        <dex dex="D:\Android\AppSite-Lottery\app\build\intermediates\pre-dexed\debug\jpush-android_v3.0.3_56da057e9a056e6521176cdaf0fbe836e54d94fd.jar" />
+    </item>
+
+</items>
