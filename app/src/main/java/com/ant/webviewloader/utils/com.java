@@ -17,7 +17,6 @@ public class com {
         dlg.setMessage(msg);
         dlg.setPositiveButton("确定", null);
         dlg.show();
-        //new test
     }
 
     //闪现提示

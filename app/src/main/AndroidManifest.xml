@@ -54,7 +54,7 @@
             android:enabled="true" >
             <intent-filter android:priority="1000">
                 <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY" />
-                <category android:name="com.lottery.app"/>
+                <category android:name="com.lotteryx.app"/>
             </intent-filter>
             <intent-filter>
                 <action android:name="android.intent.action.USER_PRESENT" />
@@ -77,7 +77,7 @@
             <intent-filter>
                 <action android:name="cn.jpush.android.ui.PushActivity" />
                 <category android:name="android.intent.category.DEFAULT" />
-                <category android:name="com.lottery.app" />
+                <category android:name="com.lotteryx.app" />
             </intent-filter>
         </activity>
 
@@ -103,12 +103,12 @@
                 <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED" /> <!--Required  用户接收SDK通知栏信息的intent-->
                 <action android:name="cn.jpush.android.intent.NOTIFICATION_OPENED" /> <!--Required  用户打开自定义通知栏的intent-->
                 <action android:name="cn.jpush.android.intent.CONNECTION" /><!-- 接收网络变化 连接/断开 since 1.6.3 -->
-                <category android:name="com.lottery.app" />
+                <category android:name="com.lotteryx.app" />
             </intent-filter>
         </receiver>
 
         <meta-data android:name="JPUSH_CHANNEL" android:value="developer-default"/>
-        <meta-data android:name="JPUSH_APPKEY" android:value="d49e0493ae46c2da938d8a01"/>
+        <meta-data android:name="JPUSH_APPKEY" android:value="8f783a32e8528abd61516867"/>
 
     </application>
 
