@@ -5,12 +5,13 @@
     android:id="@+id/activity_splash"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
     tools:context="com.ant.webviewloader.SplashActivity">
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:srcCompat="@drawable/splash"
+        app:srcCompat="@drawable/cmsplash1"
         android:scaleType="fitXY"
         android:id="@+id/imageView" />
 </RelativeLayout>
