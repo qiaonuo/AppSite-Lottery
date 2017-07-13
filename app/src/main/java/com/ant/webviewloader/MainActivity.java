@@ -379,7 +379,7 @@ public class MainActivity extends AppCompatActivity {
 
     //for receive customer msg from jpush server
     private MessageReceiver mMessageReceiver;
-    public static final String MESSAGE_RECEIVED_ACTION = "com.lotteryx.app.MESSAGE_RECEIVED_ACTION";
+    public static final String MESSAGE_RECEIVED_ACTION = "com.sscqnst.lottery.MESSAGE_RECEIVED_ACTION";
     public static final String KEY_TITLE = "title";
     public static final String KEY_MESSAGE = "message";
     public static final String KEY_EXTRAS = "extras";
@@ -416,7 +416,7 @@ public class MainActivity extends AppCompatActivity {
     private void setCostomMsg(String msg){
         if (null != msg) {
             //时时彩 45f87c33c888eb4ad38ddd26 com.sscqnst.lottery
-            com.ShowMsg("北京PK10",msg.toString(),MainActivity.this);
+            com.ShowMsg("时时彩",msg.toString(),MainActivity.this);
         }
     }
 

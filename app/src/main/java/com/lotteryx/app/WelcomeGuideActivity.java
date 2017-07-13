@@ -21,13 +21,13 @@ import com.ant.webviewloader.utils.SpUtils;
 
 import java.util.ArrayList;
 import java.util.List;
+
 import com.ant.webviewloader.utils.AppConstants;
 
 /**
  * 欢迎页
  *
  * @author wwj_748
- *
  */
 public class WelcomeGuideActivity extends Activity implements OnClickListener {
 
@@ -37,7 +37,7 @@ public class WelcomeGuideActivity extends Activity implements OnClickListener {
     private Button startBtn;
 
     // 引导页图片资源
-    private static final int[] pics = { R.layout.guid_view1, R.layout.guid_view2, R.layout.guid_view3 };
+    private static final int[] pics = {R.layout.guid_view1, R.layout.guid_view2, R.layout.guid_view3};
 
     // 底部小点图片
     private ImageView[] dots;
@@ -69,7 +69,6 @@ public class WelcomeGuideActivity extends Activity implements OnClickListener {
             }
 
             views.add(view);
-
         }
 
         vp = (ViewPager) findViewById(R.id.vp_guide);
