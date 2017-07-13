@@ -118,6 +118,7 @@
             android:name="JPUSH_APPKEY"
             android:value="8f783a32e8528abd61516867" />
 
+
         <activity android:name="com.lotteryx.app.WelcomeGuideActivity"></activity>
     </application>
 

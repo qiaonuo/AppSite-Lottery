@@ -14,7 +14,7 @@ android {
 //    **兼容Android6.0系统所需，如果这句话报错，可在dependencies标签下使用compile 'cn.bmob.android:http-legacy:1.0'**
     useLibrary 'org.apache.http.legacy'
     defaultConfig {
-        applicationId "com.lotteryx.app"
+        applicationId "com.bjpkqnst.app"
         minSdkVersion 15
         targetSdkVersion 24
         versionCode 1
@@ -25,6 +25,7 @@ android {
                 JPUSH_PKGNAME : applicationId,
                 JPUSH_APPKEY : "8f783a32e8528abd61516867", //JPush上注册的包名对应的appkey.
                 JPUSH_CHANNEL : "developer-default", //暂时填写默认值即可.
+                //时时彩 45f87c33c888eb4ad38ddd26 com.sscqnst.lottery
         ]
     }
     buildTypes {

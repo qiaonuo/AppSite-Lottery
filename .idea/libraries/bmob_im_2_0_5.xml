@@ -1,10 +1,10 @@
 <component name="libraryTable">
   <library name="bmob-im-2.0.5">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.android/build-cache/dbd9556c250352891d023a2d6acfeef70a0eb782/output/jars/libs/BmobNewIM_2.0.5_20160601.jar!/" />
-      <root url="jar://$USER_HOME$/.android/build-cache/dbd9556c250352891d023a2d6acfeef70a0eb782/output/jars/classes.jar!/" />
-      <root url="jar://$USER_HOME$/.android/build-cache/dbd9556c250352891d023a2d6acfeef70a0eb782/output/jars/libs/androidasync-2.1.6.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/dbd9556c250352891d023a2d6acfeef70a0eb782/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/48fcfa0e81e182f5d4f79565ae2cb37fc2c10af3/output/jars/libs/BmobNewIM_2.0.5_20160601.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/48fcfa0e81e182f5d4f79565ae2cb37fc2c10af3/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/48fcfa0e81e182f5d4f79565ae2cb37fc2c10af3/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/48fcfa0e81e182f5d4f79565ae2cb37fc2c10af3/output/jars/libs/androidasync-2.1.6.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

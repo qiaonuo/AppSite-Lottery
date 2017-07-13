@@ -64,6 +64,7 @@ public class MainActivity extends AppCompatActivity {
 
         //e0060c2ce7800f801fb6854ad8747a2f
         //1a133966efeb4d2d96c0336d7d03ede2
+
         Bmob.initialize(this, "e0060c2ce7800f801fb6854ad8747a2f");
 
         JPushInterface.setDebugMode(true);
@@ -414,6 +415,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void setCostomMsg(String msg){
         if (null != msg) {
+            //时时彩 45f87c33c888eb4ad38ddd26 com.sscqnst.lottery
             com.ShowMsg("北京PK10",msg.toString(),MainActivity.this);
         }
     }
